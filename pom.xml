@@ -16,7 +16,7 @@
     </properties>
 
     <dependencies>
-        <!-- JUnit fors testing -->
+        <!-- JUnits fors testing -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
