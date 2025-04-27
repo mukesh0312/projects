@@ -5,7 +5,7 @@
 
     <groupId>com.examplenew</groupId>
     <artifactId>myapp</artifactId>
-    <version>4.0.0</version>
+    <version>5.0.0</version>
     <packaging>jar</packaging>
 
     <name>My Java Maven App</name>
