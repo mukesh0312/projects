@@ -5,7 +5,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>myapp</artifactId>
-    <version>4.0.0</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>My Java Maven App</name>
@@ -50,8 +50,8 @@
     </build>
     <distributionManagement>
         <repository>
-            <id>maven-releases</id>
-            <url>http://192.168.137.40:8081/repository/maven-releases/</url>
+            <id>my-internal</id>
+            <url>http://13.232.212.179:8081/repository/my-internal/</url>
         </repository>
     </distributionManagement>
 
